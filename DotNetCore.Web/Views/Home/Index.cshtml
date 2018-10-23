@@ -1,0 +1,34 @@
+﻿@using DotNetCore.Models
+@using DotNetCore.Web.Settings;
+@using Microsoft.Extensions.Options;
+@model IEnumerable<Cinema>
+
+@inject IOptions<ConnectionOptions> options;
+
+<div class="container">
+    <div class="row">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">电影院名称</th>
+                    <th scope="col">场所</th>
+                    <th scope="col">座位数</th>
+                    <th>操作</th>
+                </tr>
+            </thead>
+            <tbody>
+                @Html.DisplayForModel()
+            </tbody>
+        </table>
+
+        <a asp-action="Add">添加</a>
+
+        <div class="input-group">
+            @await Component.InvokeAsync("MovieCount", new { cinemaId = 1 })
+        </div>
+        <div class="input-group">
+            <span>@options.Value.DefaultConnection</span>
+        </div>
+    </div>
+</div>

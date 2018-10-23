@@ -1,0 +1,9 @@
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\bin\Debug\netcoreapp2.1\DotNetCore.Models.deps.json
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\bin\Debug\netcoreapp2.1\DotNetCore.Models.dll
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\bin\Debug\netcoreapp2.1\DotNetCore.Models.pdb
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\obj\Debug\netcoreapp2.1\DotNetCore.Models.csprojAssemblyReference.cache
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\obj\Debug\netcoreapp2.1\DotNetCore.Models.csproj.CoreCompileInputs.cache
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\obj\Debug\netcoreapp2.1\DotNetCore.Models.AssemblyInfoInputs.cache
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\obj\Debug\netcoreapp2.1\DotNetCore.Models.AssemblyInfo.cs
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\obj\Debug\netcoreapp2.1\DotNetCore.Models.dll
+G:\VsProjects\DotNetCoreDemo\DotNetCore.Models\obj\Debug\netcoreapp2.1\DotNetCore.Models.pdb
